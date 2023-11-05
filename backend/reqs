@@ -1,0 +1,13 @@
+fastapi
+pydantic
+uvicorn
+typing
+requests
+bs4
+transformers
+transformers[sentencepiece]
+diffusers
+diffusers[torch]
+diffusers[flax]
+accelerate
+safetensors
